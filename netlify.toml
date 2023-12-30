@@ -1,0 +1,3 @@
+[build]
+  base = "Tailus-Astro"
+  publish = "Tailus-Astro/public"
